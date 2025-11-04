@@ -8,4 +8,4 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -U deepeval openai
 export OPENAI_API_KEY="sk-..."
-python deepeval_correctness_latest.py
+python deepeval-test.py
