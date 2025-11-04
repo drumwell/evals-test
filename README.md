@@ -1,4 +1,4 @@
-# Evals Tut
+# Evals Test
 
 Simple DeepEval "Answer Correctness" demo for our agent evaluation work.
 
